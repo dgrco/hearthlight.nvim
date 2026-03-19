@@ -40,7 +40,7 @@ A delightful set of warm Neovim colorschemes.
 | orange     | ![#d19a5e](https://placehold.co/12x12/d19a5e/d19a5e.png) Types        | `#d19a5e` |
 | yellow     | ![#e5c07b](https://placehold.co/12x12/e5c07b/e5c07b.png) Strings      | `#e5c07b` |
 | green      | ![#a7c97a](https://placehold.co/12x12/a7c97a/a7c97a.png) Functions    | `#a7c97a` |
-| cyan       | ![#6ec4b0](https://placehold.co/12x12/6ec4b0/6ec4b0.png) Builtins     | `#6ec4b0` |
+| cyan       | ![#7aaa98](https://placehold.co/12x12/7aaa98/7aaa98.png) Builtins     | `#7aaa98` |
 | blue       | ![#82aacc](https://placehold.co/12x12/82aacc/82aacc.png) Tags         | `#82aacc` |
 | purple     | ![#c792d0](https://placehold.co/12x12/c792d0/c792d0.png) Numbers      | `#c792d0` |
 | pink       | ![#f0836e](https://placehold.co/12x12/f0836e/f0836e.png) Operators    | `#f0836e` |
@@ -69,10 +69,10 @@ A delightful set of warm Neovim colorschemes.
 | fg2        | ![#9e9170](https://placehold.co/12x12/9e9170/9e9170.png) Subtle       | `#9e9170` |
 | fg3        | ![#6a5f50](https://placehold.co/12x12/6a5f50/6a5f50.png) Dim          | `#6a5f50` |
 | red        | ![#e06c75](https://placehold.co/12x12/e06c75/e06c75.png) Keywords     | `#e06c75` |
-| orange     | ![#d19a5e](https://placehold.co/12x12/d19a5e/d19a5e.png) Types        | `#d19a5e` |
+| orange     | ![#f6c177](https://placehold.co/12x12/f6c177/f6c177.png) Types        | `#f6c177` |
 | yellow     | ![#e5c07b](https://placehold.co/12x12/e5c07b/e5c07b.png) Strings      | `#e5c07b` |
 | green      | ![#98c379](https://placehold.co/12x12/98c379/98c379.png) Functions    | `#98c379` |
-| cyan       | ![#7ec8c8](https://placehold.co/12x12/7ec8c8/7ec8c8.png) Builtins     | `#7ec8c8` |
+| cyan       | ![#8db49e](https://placehold.co/12x12/8db49e/8db49e.png) Builtins     | `#8db49e` |
 | blue       | ![#82aacc](https://placehold.co/12x12/82aacc/82aacc.png) Tags         | `#82aacc` |
 | purple     | ![#c792d0](https://placehold.co/12x12/c792d0/c792d0.png) Numbers      | `#c792d0` |
 | pink       | ![#f0836e](https://placehold.co/12x12/f0836e/f0836e.png) Operators    | `#f0836e` |
@@ -104,7 +104,7 @@ A delightful set of warm Neovim colorschemes.
 | orange     | ![#d19a5e](https://placehold.co/12x12/d19a5e/d19a5e.png) Types        | `#d19a5e` |
 | yellow     | ![#e5c07b](https://placehold.co/12x12/e5c07b/e5c07b.png) Strings      | `#e5c07b` |
 | green      | ![#98c379](https://placehold.co/12x12/98c379/98c379.png) Functions    | `#98c379` |
-| cyan       | ![#7ec8c8](https://placehold.co/12x12/7ec8c8/7ec8c8.png) Builtins     | `#7ec8c8` |
+| cyan       | ![#8db49e](https://placehold.co/12x12/8db49e/8db49e.png) Builtins     | `#8db49e` |
 | blue       | ![#82aacc](https://placehold.co/12x12/82aacc/82aacc.png) Tags         | `#82aacc` |
 | purple     | ![#c792d0](https://placehold.co/12x12/c792d0/c792d0.png) Numbers      | `#c792d0` |
 | pink       | ![#f0836e](https://placehold.co/12x12/f0836e/f0836e.png) Operators    | `#f0836e` |
@@ -136,7 +136,7 @@ A delightful set of warm Neovim colorschemes.
 | orange     | ![#e8985a](https://placehold.co/12x12/e8985a/e8985a.png) Types        | `#e8985a` |
 | yellow     | ![#d4b870](https://placehold.co/12x12/d4b870/d4b870.png) Strings      | `#d4b870` |
 | green      | ![#8ec47a](https://placehold.co/12x12/8ec47a/8ec47a.png) Functions    | `#8ec47a` |
-| cyan       | ![#5ecfcf](https://placehold.co/12x12/5ecfcf/5ecfcf.png) Builtins     | `#5ecfcf` |
+| cyan       | ![#82afa0](https://placehold.co/12x12/82afa0/82afa0.png) Builtins     | `#82afa0` |
 | blue       | ![#7bb0e8](https://placehold.co/12x12/7bb0e8/7bb0e8.png) Tags         | `#7bb0e8` |
 | purple     | ![#b8a0e0](https://placehold.co/12x12/b8a0e0/b8a0e0.png) Numbers      | `#b8a0e0` |
 | pink       | ![#e88a7a](https://placehold.co/12x12/e88a7a/e88a7a.png) Operators    | `#e88a7a` |
