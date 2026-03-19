@@ -1,0 +1,68 @@
+# Mokka — Alacritty terminal theme
+# Place in ~/.config/alacritty/themes/ and import with:
+#   import:
+#     - ~/.config/alacritty/themes/hearthlight.toml
+
+[colors.primary]
+background = "#171d18"
+foreground = "#C8C093"
+dim_foreground = "#5c5c48"
+bright_foreground = "#DCD7BA"
+
+[colors.cursor]
+text   = "#171d18"
+cursor = "#C8C093"
+
+[colors.vi_mode_cursor]
+text   = "#171d18"
+cursor = "#6ec4b0"
+
+[colors.search.matches]
+foreground = "#171d18"
+background = "#e5c07b"
+
+[colors.search.focused_match]
+foreground = "#171d18"
+background = "#d19a5e"
+
+[colors.hints.start]
+foreground = "#171d18"
+background = "#e5c07b"
+
+[colors.hints.end]
+foreground = "#171d18"
+background = "#d19a5e"
+
+[colors.selection]
+text       = "#DCD7BA"
+background = "#303d32"
+
+[colors.normal]
+black   = "#171d18"
+red     = "#e06c75"
+green   = "#a7c97a"
+yellow  = "#e5c07b"
+blue    = "#82aacc"
+magenta = "#c792d0"
+cyan    = "#6ec4b0"
+white   = "#C8C093"
+
+[colors.bright]
+black   = "#475248"
+red     = "#e06c75"
+green   = "#a7c97a"
+yellow  = "#e5c07b"
+blue    = "#82aacc"
+magenta = "#f0836e"
+cyan    = "#6ec4b0"
+white   = "#DCD7BA"
+
+[colors.dim]
+black   = "#1e2620"
+red     = "#e06c75"
+green   = "#a7c97a"
+yellow  = "#e5c07b"
+blue    = "#82aacc"
+magenta = "#c792d0"
+cyan    = "#6ec4b0"
+white   = "#8f8c6e"
