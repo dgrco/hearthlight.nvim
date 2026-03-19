@@ -8,16 +8,13 @@ A delightful set of warm Neovim colorschemes.
 ## Previews
 
 ### parchment
-<img width="1465" height="1027" alt="image" src="https://github.com/user-attachments/assets/8bb9c508-76de-433c-b758-6b9ba14f7672" />
-
-### lantern (a very similar but slightly warmer variant of parchment)
-<img width="1465" height="1027" alt="image" src="https://github.com/user-attachments/assets/e51c9784-d8d7-4f38-a781-14a799c806bc" />
+<img width="1466" height="1073" alt="image" src="https://github.com/user-attachments/assets/7281e339-3c73-4d6f-aa81-4776ead0d5f7" />
 
 ### dusk
-<img width="1465" height="1027" alt="image" src="https://github.com/user-attachments/assets/5e586b39-e0fc-4e8f-bf62-dc9573b09565" />
+<img width="1449" height="1071" alt="image" src="https://github.com/user-attachments/assets/7cc5c010-fee8-4001-8ea9-4b54452d5957" />
 
 ### forest
-<img width="1465" height="1027" alt="image" src="https://github.com/user-attachments/assets/d6d7f842-b3b9-45c0-a678-512c7fa35722" />
+<img width="1454" height="1071" alt="image" src="https://github.com/user-attachments/assets/48867a7f-8a84-46ac-a47e-c7345d720aee" />
 
 
 ## Palletes
