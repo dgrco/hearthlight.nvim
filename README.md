@@ -84,38 +84,6 @@ A delightful set of warm Neovim colorschemes.
 </details>
 
 <details>
-<summary><strong>lantern</strong></summary>
-
-| Role       | Color                                                                  | Hex       |
-|------------|------------------------------------------------------------------------|--------|
-| bg0        | ![#1e1c18](https://placehold.co/12x12/1e1c18/1e1c18.png) Background   | `#1e1c18` |
-| bg1        | ![#25231e](https://placehold.co/12x12/25231e/25231e.png) Cursorline   | `#25231e` |
-| bg2        | ![#2d2b25](https://placehold.co/12x12/2d2b25/2d2b25.png) Sidebars     | `#2d2b25` |
-| bg3        | ![#383530](https://placehold.co/12x12/383530/383530.png) Selection    | `#383530` |
-| bg4        | ![#504d46](https://placehold.co/12x12/504d46/504d46.png) UI chrome    | `#504d46` |
-| fg0        | ![#DCD7BA](https://placehold.co/12x12/DCD7BA/DCD7BA.png) Bright text  | `#DCD7BA` |
-| fg1        | ![#C8C093](https://placehold.co/12x12/C8C093/C8C093.png) Normal text  | `#C8C093` |
-| fg2        | ![#9e9170](https://placehold.co/12x12/9e9170/9e9170.png) Subtle       | `#9e9170` |
-| fg3        | ![#6a5f50](https://placehold.co/12x12/6a5f50/6a5f50.png) Dim          | `#6a5f50` |
-| red        | ![#e06c75](https://placehold.co/12x12/e06c75/e06c75.png) Keywords     | `#e06c75` |
-| orange     | ![#d19a5e](https://placehold.co/12x12/d19a5e/d19a5e.png) Types        | `#d19a5e` |
-| yellow     | ![#e5c07b](https://placehold.co/12x12/e5c07b/e5c07b.png) Strings      | `#e5c07b` |
-| green      | ![#98c379](https://placehold.co/12x12/98c379/98c379.png) Functions    | `#98c379` |
-| cyan       | ![#8db49e](https://placehold.co/12x12/8db49e/8db49e.png) Builtins     | `#8db49e` |
-| blue       | ![#82aacc](https://placehold.co/12x12/82aacc/82aacc.png) Tags         | `#82aacc` |
-| purple     | ![#c792d0](https://placehold.co/12x12/c792d0/c792d0.png) Numbers      | `#c792d0` |
-| pink       | ![#f0836e](https://placehold.co/12x12/f0836e/f0836e.png) Operators    | `#f0836e` |
-| err        | ![#e06c75](https://placehold.co/12x12/e06c75/e06c75.png) Error        | `#e06c75` |
-| warn       | ![#e5c07b](https://placehold.co/12x12/e5c07b/e5c07b.png) Warning      | `#e5c07b` |
-| info       | ![#7ec8c8](https://placehold.co/12x12/7ec8c8/7ec8c8.png) Info         | `#7ec8c8` |
-| hint       | ![#98c379](https://placehold.co/12x12/98c379/98c379.png) Hint         | `#98c379` |
-| added      | ![#98c379](https://placehold.co/12x12/98c379/98c379.png) Added        | `#98c379` |
-| changed    | ![#d19a5e](https://placehold.co/12x12/d19a5e/d19a5e.png) Changed      | `#d19a5e` |
-| removed    | ![#e06c75](https://placehold.co/12x12/e06c75/e06c75.png) Removed      | `#e06c75` |
-
-</details>
-
-<details>
 <summary><strong>dusk</strong></summary>
 
 | Role       | Color                                                                  | Hex       |
