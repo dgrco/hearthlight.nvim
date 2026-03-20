@@ -159,7 +159,7 @@ A delightful set of warm Neovim colorschemes.
 
 ```lua
 require("hearthlight").setup({
-  variant = "hearthlight", -- "hearthlight" | "mariana"
+  variant = "parchment", -- "parchment" | "ember" | "cinder" | "dusk"
   italics = false, -- enable italics on keywords, types, comments
 })
 ```
