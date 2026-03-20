@@ -5,48 +5,36 @@ A delightful set of warm Neovim colorschemes.
 ![neovim](https://img.shields.io/badge/neovim-0.8+-green?style=flat-square)
 ![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
-## Previews
-
-### parchment
-<img width="1466" height="1073" alt="image" src="https://github.com/user-attachments/assets/7281e339-3c73-4d6f-aa81-4776ead0d5f7" />
-
-### dusk
-<img width="1449" height="1071" alt="image" src="https://github.com/user-attachments/assets/7cc5c010-fee8-4001-8ea9-4b54452d5957" />
-
-### forest
-<img width="1454" height="1071" alt="image" src="https://github.com/user-attachments/assets/48867a7f-8a84-46ac-a47e-c7345d720aee" />
-
-
 ## Palletes
 <!-- PALETTES_START -->
 <details>
-<summary><strong>forest</strong></summary>
+<summary><strong>ember</strong></summary>
 
 | Role       | Color                                                                  | Hex       |
 |------------|------------------------------------------------------------------------|--------|
-| bg0        | ![#171d18](https://placehold.co/12x12/171d18/171d18.png) Background   | `#171d18` |
-| bg1        | ![#1e2620](https://placehold.co/12x12/1e2620/1e2620.png) Cursorline   | `#1e2620` |
-| bg2        | ![#252f27](https://placehold.co/12x12/252f27/252f27.png) Sidebars     | `#252f27` |
-| bg3        | ![#303d32](https://placehold.co/12x12/303d32/303d32.png) Selection    | `#303d32` |
-| bg4        | ![#475248](https://placehold.co/12x12/475248/475248.png) UI chrome    | `#475248` |
+| bg0        | ![#110e0d](https://placehold.co/12x12/110e0d/110e0d.png) Background   | `#110e0d` |
+| bg1        | ![#181210](https://placehold.co/12x12/181210/181210.png) Cursorline   | `#181210` |
+| bg2        | ![#1f1714](https://placehold.co/12x12/1f1714/1f1714.png) Sidebars     | `#1f1714` |
+| bg3        | ![#281e1b](https://placehold.co/12x12/281e1b/281e1b.png) Selection    | `#281e1b` |
+| bg4        | ![#3d2e29](https://placehold.co/12x12/3d2e29/3d2e29.png) UI chrome    | `#3d2e29` |
 | fg0        | ![#DCD7BA](https://placehold.co/12x12/DCD7BA/DCD7BA.png) Bright text  | `#DCD7BA` |
 | fg1        | ![#C8C093](https://placehold.co/12x12/C8C093/C8C093.png) Normal text  | `#C8C093` |
-| fg2        | ![#8f8c6e](https://placehold.co/12x12/8f8c6e/8f8c6e.png) Subtle       | `#8f8c6e` |
-| fg3        | ![#5c5c48](https://placehold.co/12x12/5c5c48/5c5c48.png) Dim          | `#5c5c48` |
+| fg2        | ![#9e8e7e](https://placehold.co/12x12/9e8e7e/9e8e7e.png) Subtle       | `#9e8e7e` |
+| fg3        | ![#6a5248](https://placehold.co/12x12/6a5248/6a5248.png) Dim          | `#6a5248` |
 | red        | ![#e06c75](https://placehold.co/12x12/e06c75/e06c75.png) Keywords     | `#e06c75` |
-| orange     | ![#d19a5e](https://placehold.co/12x12/d19a5e/d19a5e.png) Types        | `#d19a5e` |
-| yellow     | ![#e5c07b](https://placehold.co/12x12/e5c07b/e5c07b.png) Strings      | `#e5c07b` |
-| green      | ![#a7c97a](https://placehold.co/12x12/a7c97a/a7c97a.png) Functions    | `#a7c97a` |
-| cyan       | ![#7aaa98](https://placehold.co/12x12/7aaa98/7aaa98.png) Builtins     | `#7aaa98` |
+| orange     | ![#f6c177](https://placehold.co/12x12/f6c177/f6c177.png) Types        | `#f6c177` |
+| yellow     | ![#ddc98a](https://placehold.co/12x12/ddc98a/ddc98a.png) Strings      | `#ddc98a` |
+| green      | ![#98c379](https://placehold.co/12x12/98c379/98c379.png) Functions    | `#98c379` |
+| cyan       | ![#8db49e](https://placehold.co/12x12/8db49e/8db49e.png) Builtins     | `#8db49e` |
 | blue       | ![#82aacc](https://placehold.co/12x12/82aacc/82aacc.png) Tags         | `#82aacc` |
 | purple     | ![#c792d0](https://placehold.co/12x12/c792d0/c792d0.png) Numbers      | `#c792d0` |
 | pink       | ![#f0836e](https://placehold.co/12x12/f0836e/f0836e.png) Operators    | `#f0836e` |
 | err        | ![#e06c75](https://placehold.co/12x12/e06c75/e06c75.png) Error        | `#e06c75` |
-| warn       | ![#e5c07b](https://placehold.co/12x12/e5c07b/e5c07b.png) Warning      | `#e5c07b` |
-| info       | ![#6ec4b0](https://placehold.co/12x12/6ec4b0/6ec4b0.png) Info         | `#6ec4b0` |
-| hint       | ![#a7c97a](https://placehold.co/12x12/a7c97a/a7c97a.png) Hint         | `#a7c97a` |
-| added      | ![#a7c97a](https://placehold.co/12x12/a7c97a/a7c97a.png) Added        | `#a7c97a` |
-| changed    | ![#d19a5e](https://placehold.co/12x12/d19a5e/d19a5e.png) Changed      | `#d19a5e` |
+| warn       | ![#ddc98a](https://placehold.co/12x12/ddc98a/ddc98a.png) Warning      | `#ddc98a` |
+| info       | ![#8db49e](https://placehold.co/12x12/8db49e/8db49e.png) Info         | `#8db49e` |
+| hint       | ![#98c379](https://placehold.co/12x12/98c379/98c379.png) Hint         | `#98c379` |
+| added      | ![#98c379](https://placehold.co/12x12/98c379/98c379.png) Added        | `#98c379` |
+| changed    | ![#f6c177](https://placehold.co/12x12/f6c177/f6c177.png) Changed      | `#f6c177` |
 | removed    | ![#e06c75](https://placehold.co/12x12/e06c75/e06c75.png) Removed      | `#e06c75` |
 
 </details>
@@ -80,6 +68,38 @@ A delightful set of warm Neovim colorschemes.
 | added      | ![#98c379](https://placehold.co/12x12/98c379/98c379.png) Added        | `#98c379` |
 | changed    | ![#d19a5e](https://placehold.co/12x12/d19a5e/d19a5e.png) Changed      | `#d19a5e` |
 | removed    | ![#e06c75](https://placehold.co/12x12/e06c75/e06c75.png) Removed      | `#e06c75` |
+
+</details>
+
+<details>
+<summary><strong>cinder</strong></summary>
+
+| Role       | Color                                                                  | Hex       |
+|------------|------------------------------------------------------------------------|--------|
+| bg0        | ![#1f1e1c](https://placehold.co/12x12/1f1e1c/1f1e1c.png) Background   | `#1f1e1c` |
+| bg1        | ![#272523](https://placehold.co/12x12/272523/272523.png) Cursorline   | `#272523` |
+| bg2        | ![#2f2d2a](https://placehold.co/12x12/2f2d2a/2f2d2a.png) Sidebars     | `#2f2d2a` |
+| bg3        | ![#3b3835](https://placehold.co/12x12/3b3835/3b3835.png) Selection    | `#3b3835` |
+| bg4        | ![#524e49](https://placehold.co/12x12/524e49/524e49.png) UI chrome    | `#524e49` |
+| fg0        | ![#DCD7BA](https://placehold.co/12x12/DCD7BA/DCD7BA.png) Bright text  | `#DCD7BA` |
+| fg1        | ![#C8C093](https://placehold.co/12x12/C8C093/C8C093.png) Normal text  | `#C8C093` |
+| fg2        | ![#9e9170](https://placehold.co/12x12/9e9170/9e9170.png) Subtle       | `#9e9170` |
+| fg3        | ![#6a5f50](https://placehold.co/12x12/6a5f50/6a5f50.png) Dim          | `#6a5f50` |
+| red        | ![#a86858](https://placehold.co/12x12/a86858/a86858.png) Keywords     | `#a86858` |
+| orange     | ![#b8a070](https://placehold.co/12x12/b8a070/b8a070.png) Types        | `#b8a070` |
+| yellow     | ![#b8a070](https://placehold.co/12x12/b8a070/b8a070.png) Strings      | `#b8a070` |
+| green      | ![#889e80](https://placehold.co/12x12/889e80/889e80.png) Functions    | `#889e80` |
+| cyan       | ![#889e80](https://placehold.co/12x12/889e80/889e80.png) Builtins     | `#889e80` |
+| blue       | ![#889e80](https://placehold.co/12x12/889e80/889e80.png) Tags         | `#889e80` |
+| purple     | ![#a86858](https://placehold.co/12x12/a86858/a86858.png) Numbers      | `#a86858` |
+| pink       | ![#a86858](https://placehold.co/12x12/a86858/a86858.png) Operators    | `#a86858` |
+| err        | ![#a86858](https://placehold.co/12x12/a86858/a86858.png) Error        | `#a86858` |
+| warn       | ![#b8a070](https://placehold.co/12x12/b8a070/b8a070.png) Warning      | `#b8a070` |
+| info       | ![#889e80](https://placehold.co/12x12/889e80/889e80.png) Info         | `#889e80` |
+| hint       | ![#889e80](https://placehold.co/12x12/889e80/889e80.png) Hint         | `#889e80` |
+| added      | ![#889e80](https://placehold.co/12x12/889e80/889e80.png) Added        | `#889e80` |
+| changed    | ![#b8a070](https://placehold.co/12x12/b8a070/b8a070.png) Changed      | `#b8a070` |
+| removed    | ![#a86858](https://placehold.co/12x12/a86858/a86858.png) Removed      | `#a86858` |
 
 </details>
 

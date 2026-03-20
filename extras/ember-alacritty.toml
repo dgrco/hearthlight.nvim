@@ -4,65 +4,65 @@
 #     - ~/.config/alacritty/themes/hearthlight.toml
 
 [colors.primary]
-background = "#171d18"
+background = "#110e0d"
 foreground = "#C8C093"
-dim_foreground = "#5c5c48"
+dim_foreground = "#6a5248"
 bright_foreground = "#DCD7BA"
 
 [colors.cursor]
-text   = "#171d18"
+text   = "#110e0d"
 cursor = "#C8C093"
 
 [colors.vi_mode_cursor]
-text   = "#171d18"
-cursor = "#7aaa98"
+text   = "#110e0d"
+cursor = "#8db49e"
 
 [colors.search.matches]
-foreground = "#171d18"
-background = "#e5c07b"
+foreground = "#110e0d"
+background = "#ddc98a"
 
 [colors.search.focused_match]
-foreground = "#171d18"
-background = "#d19a5e"
+foreground = "#110e0d"
+background = "#f6c177"
 
 [colors.hints.start]
-foreground = "#171d18"
-background = "#e5c07b"
+foreground = "#110e0d"
+background = "#ddc98a"
 
 [colors.hints.end]
-foreground = "#171d18"
-background = "#d19a5e"
+foreground = "#110e0d"
+background = "#f6c177"
 
 [colors.selection]
 text       = "#DCD7BA"
-background = "#303d32"
+background = "#281e1b"
 
 [colors.normal]
-black   = "#171d18"
+black   = "#110e0d"
 red     = "#e06c75"
-green   = "#a7c97a"
-yellow  = "#e5c07b"
+green   = "#98c379"
+yellow  = "#ddc98a"
 blue    = "#82aacc"
 magenta = "#c792d0"
-cyan    = "#7aaa98"
+cyan    = "#8db49e"
 white   = "#C8C093"
 
 [colors.bright]
-black   = "#475248"
+black   = "#3d2e29"
 red     = "#e06c75"
-green   = "#a7c97a"
-yellow  = "#e5c07b"
+green   = "#98c379"
+yellow  = "#ddc98a"
 blue    = "#82aacc"
 magenta = "#f0836e"
-cyan    = "#7aaa98"
+cyan    = "#8db49e"
 white   = "#DCD7BA"
 
 [colors.dim]
-black   = "#1e2620"
+black   = "#181210"
 red     = "#e06c75"
-green   = "#a7c97a"
-yellow  = "#e5c07b"
+green   = "#98c379"
+yellow  = "#ddc98a"
 blue    = "#82aacc"
 magenta = "#c792d0"
-cyan    = "#7aaa98"
-white   = "#8f8c6e"
+cyan    = "#8db49e"
+white   = "#9e8e7e"
