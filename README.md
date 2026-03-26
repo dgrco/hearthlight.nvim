@@ -168,7 +168,7 @@ Options must be set before calling `vim.cmd("colorscheme hearthlight")`, or pass
 
 ## Plugin support
 
-Mokka ships highlight groups for:
+Hearthlight ships highlight groups for:
 
 - **Treesitter** — full `@` capture group coverage
 - **LSP** — diagnostics, inlay hints, code lens, semantic tokens

@@ -1,4 +1,4 @@
-# Mokka — Alacritty terminal theme
+# Alacritty terminal theme
 # Place in ~/.config/alacritty/themes/ and import with:
 #   import:
 #     - ~/.config/alacritty/themes/hearthlight.toml
